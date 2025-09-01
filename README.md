@@ -57,7 +57,7 @@ Este é um projeto Java simples e não requer dependências externas ou um servi
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone <https://github.com/joaoalbertorsc/desafio-poo-dio>
     ```
 
 2.  **Abra em uma IDE:**
